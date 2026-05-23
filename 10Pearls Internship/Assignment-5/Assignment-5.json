@@ -1,0 +1,13 @@
+{
+  "project": "Assignment-5 API Testing with JMeter",
+  "intern": "Syed Ibtehaj Ahsan",
+  "api": "https://simple-books-api.glitch.me",
+  "requests": [
+    "GET Books",
+    "POST Order",
+    "PATCH Order",
+    "DELETE Order"
+  ],
+  "testing_type": "CRUD API Testing",
+  "tool": "Apache JMeter"
+}
