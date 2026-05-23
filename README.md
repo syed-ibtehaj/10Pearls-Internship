@@ -69,7 +69,6 @@ Created API test plans using Apache JMeter for CRUD operations and CSV-based tes
 - CSV Data Parameterization
 - API Response Validation
 - JMeter Test Plans
-- GitHub Submission Workflow
 
 ---
 
