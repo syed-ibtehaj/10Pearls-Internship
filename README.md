@@ -1,149 +1,106 @@
 # 10Pearls Internship – QA Engineering Repository
 
-This repository contains all assignments, practice tasks, bug reports, API testing projects, automation projects, and QA documentation completed during my internship at 10Pearls.
-
-The work includes hands-on experience in Manual Testing, API Testing, Performance Testing, Test Management, and UI Automation Testing using industry-standard tools and best practices.
+This repository contains all assignments completed during the 10Pearls Quality Assurance Internship Program. It demonstrates practical experience in Manual Testing, API Testing, Performance Testing, and UI Automation using industry-standard tools and frameworks.
 
 ---
 
 ## 👨‍💻 Intern Information
 
-* **Name:** Syed Ibtehaj Ahsan
-* **Internship Track:** Quality Assurance (QA)
-* **Domain:** Manual Testing, API Testing, Performance Testing & Automation Testing
+- **Name:** Syed Ibtehaj Ahsan  
+- **Internship Track:** Quality Assurance (QA)  
+- **Domain:** Manual Testing, API Testing, Performance Testing, UI Automation  
 
 ---
 
-# 📚 Assignments Included
+# 📚 Assignments Summary
+
+---
 
 ## ✅ Assignment 1 – QA Fundamentals
-
-Introduction to software testing concepts, QA processes, testing methodologies, and software quality assurance fundamentals.
+Fundamental concepts of Software Testing including SDLC, STLC, testing types, and QA processes.
 
 ---
 
 ## ✅ Assignment 2 – Testworthy Project Management
+Creation of structured test artifacts:
 
-Created complete testing artifacts using Testworthy, including:
-
-* Project Details
-* Milestones
-* Test Plans
-* Test Suites
-* Sections
-* Test Cases
-* Test Runs
+- Test Plans  
+- Test Cases  
+- Test Suites  
+- Test Execution Reports  
 
 ---
 
 ## ✅ Assignment 3 – Bug Reporting
+Defect reporting practice on demo applications:
 
-Performed testing on demo applications and reported defects using professional QA standards.
-
-### Covered:
-
-* Bug Reports
-* Severity & Priority Classification
-* Reproduction Steps
-* Expected vs Actual Results
-* Screenshots & Evidence
+- Structured bug reports  
+- Severity and priority classification  
+- Reproduction steps  
+- Expected vs actual results  
 
 ---
 
-## ✅ Assignment 4 – API Testing with Postman
+## ✅ Assignment 4 – API Testing (Postman)
+REST API testing using Postman:
 
-Performed REST API testing using Postman collections.
-
-### Covered:
-
-* GET, POST, PUT, PATCH & DELETE Methods
-* Base URL Variables
-* Authorization & Bearer Tokens
-* JSON Parsing
-* Chai Assertions
-* API Chaining
-* Pre-request & Test Scripts
+- CRUD operations (GET, POST, PUT, PATCH, DELETE)  
+- Authentication handling  
+- JSON validation  
+- API chaining  
+- Test scripts and assertions  
 
 ---
 
-## ✅ Assignment 5 – API Testing with JMeter
+## ✅ Assignment 5 – Performance Testing (JMeter)
+API performance and load testing using Apache JMeter:
 
-Created API test plans using Apache JMeter for CRUD operations and CSV-based testing.
-
-### Covered:
-
-* GET, POST, PATCH & DELETE Requests
-* CRUD Cycle Validation
-* CSV Data Parameterization
-* API Response Validation
-* JMeter Test Plans
+- CRUD request execution  
+- CSV parameterization  
+- Response validation  
+- Test plan execution  
 
 ---
 
-## ✅ Assignment 6 – Cypress UI Automation
+## ✅ Assignment 6 – UI Automation (Cypress)
+End-to-end UI automation framework using Cypress:
 
-Developed an End-to-End UI Automation Framework using Cypress and JavaScript following industry-standard automation practices.
-
-### Covered:
-
-* Cypress Project Setup
-* Login Failure Automation
-* Login Success Automation
-* Homepage Validation
-* Product Navigation Testing
-* Custom Commands
-* Page Object Model (POM)
-* UI Automation Framework Structure
+- Login automation (positive & negative scenarios)  
+- Product navigation testing  
+- Custom commands implementation  
+- Page Object Model (POM) architecture  
 
 ---
 
-# 🛠️ Tools & Technologies Used
+## 🚀 Assignment 7 – UI Automation (Playwright)
 
-* Cypress
-* JavaScript
-* Node.js
-* Apache JMeter
-* Postman
-* Testworthy
-* Microsoft Excel
-* Git
-* GitHub
-* REST APIs
+End-to-end automation of Daraz.pk using Playwright with Page Object Model (POM).
+
+### Key Functional Coverage:
+
+- Application navigation (Daraz.pk)  
+- Product search automation (“apple”)  
+- Brand filter validation  
+- Price filter (50000 – 500000)  
+- Product count validation (> 0)  
+- Product detail navigation  
+- Free shipping verification  
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Cypress  
+- Playwright  
+- JavaScript  
+- Node.js  
+- Postman  
+- Apache JMeter  
+- Testworthy  
+- Git & GitHub  
+- Microsoft Excel  
+- REST APIs  
 
 ---
 
 # 📂 Repository Structure
-
-```text
-10Pearls-Internship
-│
-├── Assignment-1
-├── Assignment-2
-├── Assignment-3
-├── Assignment-4
-├── Assignment-5
-└── Assignment-6
-```
-
----
-
-# 🎯 Learning Outcomes
-
-Throughout this internship, I gained practical experience in:
-
-* Manual Testing
-* Test Case Design
-* Defect Reporting
-* API Testing
-* Performance Testing
-* UI Automation Testing
-* Test Management
-* Git & GitHub Version Control
-
----
-
-## 📄 Author
-
-**Syed Ibtehaj Ahsan**
-
-QA Intern – 10Pearls Internship Program
